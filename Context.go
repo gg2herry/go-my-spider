@@ -1,0 +1,5 @@
+package mspidre
+
+func Find() {
+	
+}
